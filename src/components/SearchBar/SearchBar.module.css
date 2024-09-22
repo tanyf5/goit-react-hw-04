@@ -1,0 +1,34 @@
+.header {
+    background-color: rgb(34, 24, 110);
+    padding: 5px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+}
+
+.input {
+    height: 100%;
+    padding: 3px;
+    font-size: 12px;
+    min-width: 200px;
+    border: none;
+    outline: none;
+}
+
+.button {
+    order: -1;
+    width: 20px;
+    height: 100%;
+    cursor: pointer;
+    border: none;
+    background-color: white;
+}
+
+.button svg {
+    display: block;
+    margin: auto;
+}

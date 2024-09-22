@@ -1,0 +1,9 @@
+.error {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.error p:last-child {
+    color: red;
+    margin-top: 10px;
+}
